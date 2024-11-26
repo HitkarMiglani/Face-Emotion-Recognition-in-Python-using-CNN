@@ -13,7 +13,10 @@ Thank You
 ## How to Run file:
 TO Run the code follow the steps:
   1: install all the requirments from the requirments.txt file
+  
   2: Open the realtimedetection.py file and run it from vs code or directly by terminal
+  
   3: For sample output run the sample.py file with path to your video
+  
   --For Development : you can use the trainmodel.ipynb notebook in jupyter to see the parameters of the CNN model and also suggest any changes for improving the accuracy
 
