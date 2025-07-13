@@ -1,6 +1,0 @@
-os
-tkinter
-PIL
-Open-CV
-keras.model
-numpy
